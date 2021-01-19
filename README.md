@@ -3,9 +3,9 @@
 
 ## Who
 
-[Morgane Demesmaeker](https://github.com/Demesmaeker?tab=repositories)
-[Christian Melot](https://github.com/Ezamey?tab=repositories)
-[Ousmane Diop](https://github.com/Nooreyni)
+- [Morgane Demesmaeker](https://github.com/Demesmaeker?tab=repositories)
+- [Christian Melot](https://github.com/Ezamey?tab=repositories)
+- [Ousmane Diop](https://github.com/Nooreyni)
 
 ## What
 
