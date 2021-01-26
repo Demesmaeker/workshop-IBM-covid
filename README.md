@@ -13,9 +13,10 @@ After a really interesting presentation by [Damiaan Zwietering](https://gitlab.c
 
 ## When
 - 19/01/2021
+- 26/01/2021
 
 ## Duration
-- One day.
+- 2 days.
 
 ## Preview
 
@@ -55,3 +56,31 @@ Then we choose some other points of view :
 4. Comparison between admissions and departures.
 ![img](img/in_out_brussels_first.png)
 ![img](img/in_out_brussels_second.png)
+
+# A different point of view : 
+
+## Analyse of the relations between bankrupts and government mesures for the covid situation.
+
+We wanted to explore the covid effects outside the health situation. So we fetch the bankrupt datasets on [DataGov](https://data.gov.be/fr).
+![img](img/Bankrupts_dataset.png)
+We wanted to link them to the different governemental       measures. 
+![img](img/belgium_measure_dataset.png)
+After some cleaning so we did. What we find suprised us. 
+Indeed, we expected more bankrupts due to the covid situation but instead it seems that the government helps really did their effects since compared to the number of companies going bankrupt in the previous years, the number of this year are really lower than you would have expected.
+
+![img](img/Bankrupts_Wallonia_Plot.png)
+
+----
+## TODO :
+
+- Plot a correct Gantt chart of the differents governemental measures and link them to the bankrupts number.
+
+
+
+___We aimed for :___
+
+![img](img/Gantt_Chart_example.png)
+
+With different colors for each level of measures. 
+_ie :one line will be a measure and a color a level of this measure._
+Problem was we worked with a dataset without the finishing time and there wasn't  an explicit level for each measure and so it was really subjective. At the end of the day, we found others sets which could work better but we had not the time to work with them.
